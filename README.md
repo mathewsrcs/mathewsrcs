@@ -2,16 +2,16 @@
 
 # Hi there, I'm Matheus 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=.NET+Software+Engineer;Backend+%26+Full-Stack+Developer;Building+scalable+solutions+since+day+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=.NET+Software+Engineer;Backend+%26+Full-Stack+Developer;Microservices+%26+Distributed+Systems;Building+scalable+solutions+since+day+1)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-5524aa20a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:matheusrodrigues0509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mathewsrcs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -23,9 +23,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I'm a **.NET Software Engineer** passionate about building robust, scalable back-end systems
-- 🌐 Experienced across the full stack — from databases to APIs to front-end interfaces
-- 🧩 I love solving complex problems with clean, maintainable code
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+- 🧱 Experienced in **Microservices architecture** and distributed systems on **GCP**
+- 📫 Reach me at: **matheusrodrigues0509@gmail.com**
 
 ---
 
@@ -54,40 +53,12 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0EA5E9?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-## 📅 Experience Timeline
-
-```text
-2024 – Present  │ 🚀 Senior .NET Engineer         │ Working on distributed systems & microservices
-2022 – 2024     │ 💼 Mid-Level .NET Developer      │ REST APIs, RabbitMQ, SQL Server, ElasticSearch
-2020 – 2022     │ 🌱 Full-Stack Developer           │ Angular + .NET + MySQL + MongoDB
-2018 – 2020     │ 🔰 Junior Developer               │ PHP, JavaScript, MySQL — first steps in the industry
-```
-
-> ✏️ *Feel free to update the timeline with your real experience!*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=0EA5E9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
