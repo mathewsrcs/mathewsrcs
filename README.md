@@ -2,7 +2,7 @@
 
 # Hi there, I'm Matheus 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=.NET+Software+Engineer;Backend+%26+Full-Stack+Developer;Microservices+%26+Distributed+Systems;Building+scalable+solutions+since+day+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=.NET+Software+Engineer)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/matheus-rodrigues-5524aa20a/" target="_blank">
